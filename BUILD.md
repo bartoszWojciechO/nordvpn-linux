@@ -4,7 +4,6 @@
 1. [Branches](#branches)
 1. [CI/CD](#cicd)
 1. [Linting](#linting)
-# How to setup the development environment
 Please follow the instructions in the following step for setting up the development environment. (Note: This process was tested on a virtual machine with Ubuntu 22.04):
 1. Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 1. Install [Go 1.20+](https://go.dev/doc/install)
