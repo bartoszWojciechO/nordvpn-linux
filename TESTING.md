@@ -1,4 +1,3 @@
-# Automated testing policy
 
 There are 2 types of tests in this project:
 1. Unit tests
