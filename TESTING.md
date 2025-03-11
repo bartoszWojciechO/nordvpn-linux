@@ -7,10 +7,6 @@ There are 2 types of tests in this project:
 
 The following information or guidelines may not apply to the existing code written before introduction of this document.
 
-## Unit tests
-
-Unit tests are the preffered way of testing. Generally all new code should be covered with unit tests. Well-grounded exceptions are allowed, but the code should still be written in a way so that as much as possible of it could be unit tested and the rest should be covered by QA tests.
-
 ### Test categories
 
 Test categories are used to separate tests that interact with the environment from the ones that don't. Available categories are defined and documented in `test/category/category.go`.
