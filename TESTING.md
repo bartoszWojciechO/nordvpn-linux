@@ -1,4 +1,3 @@
-# Automated testing policy
 
 There are 2 types of tests in this project:
 1. Unit tests
@@ -7,10 +6,6 @@ There are 2 types of tests in this project:
     * Defined in `test/qa` directory.
 
 The following information or guidelines may not apply to the existing code written before introduction of this document.
-
-## Unit tests
-
-Unit tests are the preffered way of testing. Generally all new code should be covered with unit tests. Well-grounded exceptions are allowed, but the code should still be written in a way so that as much as possible of it could be unit tested and the rest should be covered by QA tests.
 
 ### Test categories
 
